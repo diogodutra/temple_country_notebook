@@ -11,7 +11,7 @@ Now we can guess from which country a temple is based on its picture! For this p
 
 # &#x1f4c8; Data Analysis and Predictive Model
 
-The detailed walkthough about the dataset analysis (ie: samples plots, insights) and the predictive model creation (ie: neural network architecture, choice of metrics, training and performance) are detailed on [this notebook](https://git.toptal.com/screening/diogo-dutra-2/-/blob/master/notebook/temple_country_pytorch.ipynb).
+The detailed walkthough about the dataset analysis (ie: samples plots, insights) and the predictive model creation (ie: neural network architecture, choice of metrics, training and performance) are detailed on [this notebook](https://github.com/diogodutra/temple_country_notebook/blob/main/notebook/temple_country_pytorch.ipynb).
 
 
 <p>&nbsp;</p>
